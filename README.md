@@ -1,1 +1,1 @@
-# password_generator
+this is a simple passwrod generator created using python
